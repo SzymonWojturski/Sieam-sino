@@ -1,3 +1,3 @@
 import sensitive_data as sd
 
-print(sd.siema)
+print(sd.SZYWOJ_ID)
